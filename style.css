@@ -12,8 +12,8 @@ body {
   justify-content: center;
   align-items: center;
   padding: 40px 20px;
-  background: #EEAECA;
-  background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(61, 33, 219, 0.23) 100%);
+  background: #010f1b;
+  background: radial-gradient(circle,rgb(13, 13, 223) 0%, rgba(61, 33, 219, 0.23) 100%);
 }
 
 .main-container {
@@ -24,7 +24,7 @@ body {
 
 h1 {
   font-size: 32px;
-  color: #2e7d32;
+  color: #daddc8;
   margin-bottom: 10px;
 }
 
